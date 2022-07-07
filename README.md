@@ -3,3 +3,4 @@ These are 2 Python applications using OpenCV and Tesseract OCR libraries to solv
 
 Aircraft Identification Handbook from MATE (Copy attached)
 
+![Processed.JPG](Processed.JPG)
